@@ -11,3 +11,5 @@ brtest
 
 ubuntuで変更中
 奥野 匠
+
+gitで編集中
