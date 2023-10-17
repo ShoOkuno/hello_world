@@ -15,3 +15,5 @@ ubuntuで変更中
 gitで編集中
 
 もう一度サーバで編集した
+
+second write
